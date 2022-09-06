@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Server>
+	<Port name="HTTP/1.1" protocol="HTTP">8515</Port>
+<PathMapping local="/PHP" module="PHP" remote="C:\Users\Devendra Singh\eclipse-workspace\.metadata\.plugins\org.eclipse.wst.server.core\tmp1\htdocs\PHP"/></Server>
